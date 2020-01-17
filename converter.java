@@ -3,7 +3,7 @@ public class Converter {
 /*
 * @Author: Name of the first student
 * Name of the second student
-* Name of the third student
+* Abid Al Labib
 *
 */
 private double celsiusToFahrenheit(double C){
