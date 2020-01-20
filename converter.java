@@ -10,8 +10,7 @@ private double celsiusToFahrenheit(double C){
 return ((C* 9/5) + 32);
 }
 private double fahrenheitToCelsius(double F){
- // TODO: The second student will implement this method
-return 0;
+ return ((5/9) x (F-32));
 }
     public static void main(String[] args) {
         Converter myObject= new Converter();
