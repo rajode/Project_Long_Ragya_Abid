@@ -2,7 +2,7 @@ public class Converter {
 //Your names go here:
 /*
 * @Author: Long Tran
-* Name of the second student
+* Ragya Mittal
 * Abid Al Labib
 *
 */
