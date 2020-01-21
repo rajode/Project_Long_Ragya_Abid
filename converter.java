@@ -21,5 +21,6 @@ private double kilometersToMiles(double k){
         System.out.println(fahrenheit);
         double celsius=myObject.fahrenheitToCelsius(250);
         System.out.println(celsius);
+        System.out.println(myObject.kilometersToMiles(30));
     }
 }
