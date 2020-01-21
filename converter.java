@@ -12,6 +12,9 @@ return ((C* 9/5) + 32);
 private double fahrenheitToCelsius(double F){
  return ((5/9) x (F-32));
 }
+private double kilometersToMiles(double k){
+  return(k/1.609);
+}
     public static void main(String[] args) {
         Converter myObject= new Converter();
         double fahrenheit=myObject.celsiusToFahrenheit(180);
@@ -20,4 +23,3 @@ private double fahrenheitToCelsius(double F){
         System.out.println(celsius);
     }
 }
-
